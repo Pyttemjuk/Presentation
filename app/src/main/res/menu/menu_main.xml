@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_presentation"
+        android:title="@string/menu_item_presentation"/>
+    <item
+        android:id="@+id/menu_item_filmer"
+        android:title="@string/menu_item_filmer"/>
+    <item
+        android:id="@+id/menu_item_pilbage"
+        android:title="@string/menu_item_pilbage"/>
+    <item
+        android:id="@+id/menu_item_korsstygnsbroderi"
+        android:title="@string/menu_item_kosstygnsbroderi"/>
+    <item
+        android:id="@+id/menu_item_kinesiska"
+        android:title="@string/menu_item_kinesiska"/>
+</menu>

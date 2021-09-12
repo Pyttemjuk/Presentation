@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Presentation</string>
+    <string name="menu_item_presentation">Presentation</string>
+    <string name="menu_item_filmer">Filmer</string>
+    <string name="menu_item_pilbage">Pilbågsskytte</string>
+    <string name="menu_item_kosstygnsbroderi">Korsstygnsbroderi</string>
+    <string name="menu_item_kinesiska">Kinesiska</string>
+    <string name="presentation_text">Hej! Jag heter Emilia Engberg och är en 34 åring boendes i Uppsala.
+    För närvarande är jag studieledig från mitt jobb som försteman på Fresenius Kabi. Jag är student vid
+    Dalarna Högskola och läser sista året på programmet Utveckling av eTjänster. \nUrsprungligen kommer
+    jag från Luleå, men flyttade till Uppsala efter studenten. Jag bor någorlunda centralt i en
+    bostadsrätt tillsammans med min make. Vi har ett gemensamt intresse för filmer och serier så mycket
+    tid spenderas på detta. Utöver det intresserar jag mig för pilbågsskytte, korsstygnsbroderi och
+    kinesiska. </string>
+    <string name="presentation_button">Gå till CV</string>
+    <string name="cv_heading">Emilia Engbergs CV</string>
+    <string name="cv_text"><b>Arbetslivserfarenhet</b>\n201709 - pågående — Processoperatör/försteman, heltid, Fresenius Kabi, Uppsala -
+        För närvarande är jag studieledig och jobbar på att avsluta
+        min utbildning\n\n201706 - 201708 — Konferensvärdinna, timanställd, Galderma, Uppsala\n\n201510 - 201708 — Receptionist/växeltelefonist,
+        timanställd, GE Healthcare, Uppsala\n\n201507 – 201511 — Butikskonsulent, timanställning, SRB gruppen, Uppsala/Tierp\n\n201501 – 201508 — Butiksmedarbetare,
+        timanställning, Lelles MC Center, Uppsala\n\n<b>Utbildning</b>\n201709 - pågående — Utveckling av eTjänster, Högskolan Dalarna -
+        Deltidsstudier fram till december 2019,
+        därefter heltid. Jag planerar att påbörja mitt examensarbete VT 2021\n\n201409 – 201706 — Kinesiska, Högskolan Dalarna -
+        Deltidsstudier i kinesiska med omfattningen 67,5 hp.\n\n<b>Övriga kompetenser</b>\nKörkort B
+    </string>
+    <string name="cv_button">Tillbaka till presentationen</string>
+    <string name="intresse_rubrik_placeholder">Intresse</string>
+    <string name="intresse_text_placeholder">Intressetext</string>
+    <string name="filmer_text">Filmer är ett intresse jag har gemensamt med min make. Vi har ett stort bibliotek med DVD och Blu-ray filmer i alla möjliga olika genrer.
+    Star Wars är en stor favorit här hemma. Vi tycker att alla filmer är bra, men det är originalen som ligger varmast om hjärtat. I jultider så är det, tro det eller ej,
+    Harry Potter som är ett måste. De har blivit vårt julfilmsmys under mellandagarna.</string>
+    <string name="pilbage_text">Intresset för pilbågsskytte väcktes för länge sedan, men det var först 2018 som jag skaffade mig en egen pilbåge. Jag spenderade en stor del av
+    sommaren 2018 på bågskytteklubben Sturarnas sommarbana utanför Uppsala. Genom detta intresse träffar jag många trevliga människor och är definitivt bättre förberedd inför zombieapokalypsen.</string>
+    <string name="korsstygnsbroderi_text">Både mamma och mormor hade ett stort intresse för korsstygnsbroderi och förde detta vidare till mig. Jag har ägnat mig åt detta intresse sen jag var barn. Just nu
+    jobbar jag på att sy klart alla projekt som ligger väntande i en stor låda och detta kommer nog ta ett par år. Tur att det är en sån avslappnande hobby.</string>
+    <string name="kinesiska_text">Jag började läsa kinesiska på Hägskolan Dalarna 2014 och har plockat 67,5 hp än så länge. Det är ett otroligt intressant och utmanande språk eftersom det är så stor skillnad
+    från de europeiska språken. De som är insatta säger att det är ett livslångt lärande och det finns alltid något nytt runt hörnet. Det öppnar även upp för större insyn i den kinesiska kulturen och allt som detta medför.</string>
+
+</resources>
